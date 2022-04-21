@@ -15,6 +15,7 @@
 🎓 &nbsp;I'm currently in my 3rd Year of Undergrad at National Institute of Technology, Warangal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring WebSockets and MongoDB.\
 🌱 &nbsp;I'm on track for learning more about Blockchain Development, Distributed and Cloud Computing.\
+✉️ &nbsp;You can find my Resume [here](https://bit.ly/dhanush-cv).\
 ✉️ &nbsp;You can shoot me an email at 29dhanushreddy@gmail.com! I'll try to respond as soon as I can.
 
 
