@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dhanushreddy291?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=dhanushreddy291&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/91dc1964120315.5ac77335ae374.png)
+<!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/91dc1964120315.5ac77335ae374.png) -->
 
 
 ## 👨🏻‍💻 &nbsp;About Me
