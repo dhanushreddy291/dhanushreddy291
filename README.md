@@ -12,7 +12,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently in my 3rd Year of Undergrad at National Institute of Technology, Warangal.\
+🎓 &nbsp;I'm currently in my Final Year of Undergrad at National Institute of Technology, Warangal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring WebSockets and MongoDB.\
 🌱 &nbsp;I'm on track for learning more about Blockchain Development, Distributed and Cloud Computing.\
 ✉️ &nbsp;You can find my Resume [here](https://bit.ly/dhanush-cv).\
