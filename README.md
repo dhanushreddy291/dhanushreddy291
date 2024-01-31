@@ -15,7 +15,7 @@
 🎓 &nbsp;I'm recent grad student at National Institute of Technology, Warangal.\
 💡 &nbsp;Some technologies I enjoy working with include Python and NodeJS. Currently exploring the field of Generative AI (Stable Diffusion and Large Language Models in general).\
 🌱 &nbsp;I'm on track for learning more about MLOPS, Distributed and Cloud Computing, Model Finetuning.\
-✉️ &nbsp;You can find my Resume [here](https://app.box.com/s/7dwh8y767qeshq12a35zbklagdcppkd6).\
+✉️ &nbsp;You can find my Resume [here](https://app.box.com/s/7dwh8y767qeshq12a35zbklagdcppkd6). (**Its very old**, please see my [twitter](https://twitter.com/dhanushreddy291) instead for Proof of Work) \
 ✉️ &nbsp;You can shoot me an email at 29dhanushreddy@gmail.com! I'll try to respond as soon as I can.
 
 
