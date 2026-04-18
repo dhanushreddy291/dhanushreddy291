@@ -1,4 +1,4 @@
-# Hi, I'm Dhanush Reddy 👋🏾
+# Hi, I'm Dhanush Reddy 👋🏾👨🏻‍💻
 
 [![X Follow](https://img.shields.io/twitter/follow/dhanushreddy291?label=Follow)](https://x.com/intent/follow?screen_name=dhanushreddy291)
 [![LinkedIn](https://img.shields.io/badge/-Dhanush-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushreddy29/)
