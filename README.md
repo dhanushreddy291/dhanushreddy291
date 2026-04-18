@@ -11,7 +11,7 @@ I’m a freelance software engineer and technical writer who turns complex engin
 
 My work focuses on backend systems, AI/MLOps, and high-quality technical content that helps developers move faster.
 
-✍️  **Technical Writing:** I contribute to developer documentation for [Neon], creating in-depth guides on backend systems and AI workflows. You can find my published work here: [neon.com/guides/authors/dhanush-reddy](https://neon.com/guides/authors/dhanush-reddy)
+✍️  **Technical Writing:** I contribute to developer documentation for [Neon](https://neon.com), creating in-depth guides on backend systems and AI workflows. You can find my published work here: [neon.com/guides/authors/dhanush-reddy](https://neon.com/guides/authors/dhanush-reddy)
 
 ### 🚀 Featured Work
 
