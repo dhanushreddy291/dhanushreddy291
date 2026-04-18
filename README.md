@@ -1,27 +1,47 @@
-# Hi, I'm Dhanush Reddy 👋🏾 👩🏾‍💻
+# Hi, I'm Dhanush Reddy 👋🏾
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhanushreddy291?label=Follow)](https://twitter.com/intent/follow?screen_name=dhanushreddy291)
-[![Linkedin: Dhanush](https://img.shields.io/badge/-Dhanush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanushreddy29/)](https://www.linkedin.com/in/dhanushreddy29/)
+[![X Follow](https://img.shields.io/twitter/follow/dhanushreddy291?label=Follow)](https://x.com/intent/follow?screen_name=dhanushreddy291)
+[![LinkedIn](https://img.shields.io/badge/-Dhanush-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushreddy29/)
 ![GitHub followers](https://img.shields.io/github/followers/dhanushreddy291?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=dhanushreddy291&color=brightgreen">  
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=dhanushreddy291&color=brightgreen">
 
-<!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/91dc1964120315.5ac77335ae374.png) -->
+## 👨🏻‍💻 About Me
 
+I’m a freelance software engineer and technical writer who turns complex engineering concepts into clear, developer-friendly documentation.
 
-## 👨🏻‍💻 &nbsp;About Me
+My work focuses on backend systems, AI/MLOps, and high-quality technical content that helps developers move faster.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+✍️  **Technical Writing:** I contribute to developer documentation for [Neon], creating in-depth guides on backend systems and AI workflows. You can find my published work here: [neon.com/guides/authors/dhanush-reddy](https://neon.com/guides/authors/dhanush-reddy)
 
-🎓 &nbsp;I'm recent grad student at National Institute of Technology, Warangal.\
-💡 &nbsp;Some technologies I enjoy working with include Python and NodeJS. Currently exploring the field of Generative AI (Stable Diffusion and Large Language Models in general).\
-🌱 &nbsp;I'm on track for learning more about MLOPS, Distributed and Cloud Computing, Model Finetuning.\
-✉️ &nbsp;You can find my Resume [here](https://app.box.com/s/gh0f9ji1f6jklfmlwkyz12rjm6y6foyk). (**It maybe old**, please see my [twitter](https://twitter.com/dhanushreddy291) instead for Proof of Work) \
-✉️ &nbsp;You can shoot me an email at 29dhanushreddy@gmail.com! I'll try to respond as soon as I can.
+### 🚀 Featured Work
 
+* **[Git worktrees and Neon Branching: Running multiple AI coding agents in parallel](https://neon.com/guides/git-worktrees-neon-branching)**
+* **[Build your own Full-Stack Cloud Agents with Cloudflare Sandboxes and Neon Database Branching](https://neon.com/guides/cloudflare-sandbox-neon-branching)**
+* **[AI Driven Incident response with Vercel and Neon MCP servers](https://neon.com/guides/vercel-neon-mcp)**
+* **[Building AI Agents with AgentStack + Neon](https://neon.com/guides/agentstack-neon)**
+* **[Build an AI-powered knowledge base chatbot using n8n and Neon Postgres](https://neon.com/guides/n8n-neon)**
 
+💡 **Engineering Focus:** My core expertise lies in **Node.js** and **Python**. I’m actively working in the fast-moving field of **Generative AI**, building and documenting systems that automate real-world workflows.
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/dhanushreddy29/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Sharing updates on <a href="https://twitter.com/dhanushreddy291">Twitter</a> 😇
+🤝 **Bridging Code and Content:** I don’t just write about technology - I build it. This hands-on approach allows me to produce accurate, practical resources for developers, from a developer’s perspective.
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/dhanushreddy291/Actions/blob/output/github-contribution-grid-snake.svg)
+📖 **Blog:** Check out my blog for more insights and tutorials: [dev.to/dhanushreddy29](https://dev.to/dhanushreddy29)
+
+## 💼 Services
+
+I’m available for:
+- **Freelance Engineering:** backend development, rapid prototyping, scaling systems, and AI integrations
+- **Technical Writing:** documentation, tutorials, architecture writeups, and blog content
+- **DevRel / Contract Work:** short- and medium-term engineering or content engagements
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript / Node.js
+- **AI & ML:** LLMs, AI Frameworks, Stable Diffusion, fine-tuning, MLOps integrations
+- **Infrastructure:** AWS, Azure, Docker
+
+## 📬 Get in Touch
+
+- **X:** [@dhanushreddy291](https://twitter.com/dhanushreddy291)
+- **Email:** [29dhanushreddy@gmail.com](mailto:29dhanushreddy@gmail.com)
+- **LinkedIn:** [dhanushreddy29](https://www.linkedin.com/in/dhanushreddy29/)
