@@ -21,6 +21,8 @@ My work focuses on backend systems, AI/MLOps, and high-quality technical content
 * **[Building AI Agents with AgentStack + Neon](https://neon.com/guides/agentstack-neon)**
 * **[Build an AI-powered knowledge base chatbot using n8n and Neon Postgres](https://neon.com/guides/n8n-neon)**
 
+📱 **Mobile Apps:** I also build AI-powered mobile apps for fun - experimenting with new ideas, workflows, and interfaces. Check them out [here](https://apps.apple.com/us/developer/dhanush-reddy-gottimukkula/id1836305225)
+
 💡 **Engineering Focus:** My core expertise lies in **Node.js** and **Python**. I’m actively working in the fast-moving field of **Generative AI**, building and documenting systems that automate real-world workflows.
 
 🤝 **Bridging Code and Content:** I don’t just write about technology - I build it. This hands-on approach allows me to produce accurate, practical resources for developers, from a developer’s perspective.
